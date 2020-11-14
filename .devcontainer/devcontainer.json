@@ -1,0 +1,12 @@
+{
+  "name": "Python Basic Project2",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/app",
+  "extensions": [
+    "ms-python.python"
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+  },
+}

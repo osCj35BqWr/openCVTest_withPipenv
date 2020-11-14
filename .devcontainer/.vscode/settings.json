@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/root/.local/share/virtualenvs/app-4PlAip0Q/bin/python",
+  "files.watcherExclude": {
+      "**/.venv/**": true
+  }
+}

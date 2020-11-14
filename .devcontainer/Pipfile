@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+
+[packages]
+numpy = "==1.16.1"
+matplotlib = "==3.2.2"
+tensorflow = "==1.15"
+keras = "==2.2.4"
+opencv-python = "==4.4.0.46"
+imageai = "==2.1.5"
+h5py = "==2.10"
+pafy = "*"
+youtube-dl = "*"
+
+[requires]
+python_version = "3.7"
